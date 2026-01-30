@@ -34,8 +34,13 @@ cd crud_app
 ```
 
 ### 3️⃣ Copier et renommer le fichier d’environnement
+sur Mac/Linux
 ```bash
 cp .env.example .env
+```
+sur Windows
+```bash
+copy .env.example .env
 ```
 
 ### 4️⃣ Installer les dépendances avec Composer
