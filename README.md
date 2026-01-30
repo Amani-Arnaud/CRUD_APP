@@ -1,8 +1,9 @@
 # 📌 CRUD_APP
 
 ## 📖 Description
-refont du **TP Master I** de l'application tableau de bord de pointage en A.G.L.
-Ce projet est une application web développée avec le framework **Laravel**.  
+Code source du TP **déploiement CI/CD** module **Devops Master II**
+Projet développé avec le framework **Laravel**.
+Code cloné depuis [laravel-news-portal](https://github.com/sahrulromadi/laravel-news-portal.git)
 
 ---
 
