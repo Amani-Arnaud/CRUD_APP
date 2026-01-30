@@ -3,7 +3,7 @@
 ## 📖 Description
 Code source du TP **déploiement CI/CD** module **Devops Master II**
 Projet développé avec le framework **Laravel**.
-Code cloné depuis [laravel-news-portal](https://github.com/sahrulromadi/laravel-news-portal.git)
+Code cloné depuis [CRUD-Laravel-12](https://github.com/SantriKoding-com/CRUD-Laravel-12.git)
 
 ---
 
